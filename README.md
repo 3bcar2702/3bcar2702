@@ -5,25 +5,30 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG -->
 <p align="center"> 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer%20%7C%20Data%20Science%20Student;Video%20Editor%20%7C%20Graphic%20Designer;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Video%20Editor%20%7C%20Graphic%20Designer;Flutter%20Developer%20%7C%20Data%20Science%20Student;Always%20trying%20to%20improve%20✨;PRAY%20🕌&font=Fira%20Code&center=true&width=700&height=45&color=f75c7e&vCenter=true&size=22">
   </a> 
 </p>  
 
-- 🎓 I'm a 4th‑year student at **Faculty of Computers and Artificial Intelligence**, Cairo University.  
-- 🔍 Specializing in **Data Science** with a focus on **Decision Support Systems**.  
-- 💻 Interested in **Flutter**, **Python**, and **Data Analysis**.  
-- 🧠 Solved **203 problems** on Codeforces.  
-- 🎬 Experienced in **video editing**, **audio enhancement**, and **graphic design**.
+---
+
+### 👨‍💻 About Me:
+
+- 🎓 4th-year student at **Faculty of Computers and Artificial Intelligence**, Cairo University  
+- 🧠 Major: **Data Science**, specialized in **Decision Support Systems**  
+- 📱 Building Flutter apps + desktop tools with Python  
+- 🎞️ Skilled in **video editing**, **graphic design**, and **audio engineering**  
+- 🧕 I’m proud to be a **Muslim** and I believe in balancing faith, learning, and creativity  
+- ✨ Always exploring new ideas and technologies that serve people
 
 ---
 
 ### 🌐 Connect with Me:
 
-<a href="https://www.linkedin.com/in/mahmoud-mohamed-ibrahim/" target="_blank">
-  <img src="https://img.shields.io/badge/-Mahmoud%20Ibrahim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mahmoud2702/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/3bcareenooo" target="_blank"> 
@@ -53,8 +58,22 @@
 
 ### 📊 GitHub Stats
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3bcarenooo&show_icons=true&theme=radical)
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3bcar2702&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bcarenooo&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bcar2702&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3bcarenooo&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3bcar2702&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+<br><br>
+
+<hr>
+
+<p align="center" dir="rtl" style="font-family: 'Amiri', 'Scheherazade', serif; font-size: 20px;">
+  <strong>
+    ﴿ وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًۭا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌۭ وَأَبْقَىٰ ﴾<br>
+    ﴿ وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا ۖ لَا نَسْـَٔلُكَ رِزْقًۭا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَٱلْعَـٰقِبَةُ لِلتَّقْوَىٰ ﴾<br>
+    <em>سورة طه – الآيتان 131، 132</em>
+  </strong>
+</p>
